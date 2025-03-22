@@ -148,6 +148,9 @@ To create a interactive image gallery with all features using JavaScript.
 
 ![Screenshot 2025-03-22 160504](https://github.com/user-attachments/assets/49366c20-10d6-4bb4-8139-390b1d1b3565)
 
+![Screenshot 2025-03-22 163238](https://github.com/user-attachments/assets/d698c1e3-ad16-4cd1-9e88-62cb6372341f)
+
+![Screenshot 2025-03-22 163219](https://github.com/user-attachments/assets/5495402f-2c37-49dc-8db1-3126991e4654)
 
 
 
@@ -159,4 +162,3 @@ The program for creating interactive image gallery using JavaScript is executed 
 
 
 https://ram-sec-1405.github.io/interactive_image/
-
