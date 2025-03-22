@@ -176,9 +176,17 @@ Upload to GitHub Pages for free hosting.
 
 
 ## OUTPUT:
+
 ![Screenshot 2025-03-22 160504](https://github.com/user-attachments/assets/49366c20-10d6-4bb4-8139-390b1d1b3565)
+
+
+
+### site link:
+
+
+file:///C:/Users/rhram/OneDrive/Desktop/att%20mwad/att.html
 
 
 ## RESULT
 The program for creating interactive image gallery using JavaScript is executed successfully.
-![Screenshot 2025-03-22 160504](https://github.com/user-attachments/assets/2626b838-f0c0-4f96-8c96-a6be9230ba2a)
+
